@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstring>
-using namespace std;//,...код
+using namespace std;//,...ко
 
 
 
